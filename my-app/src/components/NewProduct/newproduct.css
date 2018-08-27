@@ -1,0 +1,5 @@
+.new-product {
+  display: flex;
+  flex-direction: column;
+  margin: 2rem;
+}
